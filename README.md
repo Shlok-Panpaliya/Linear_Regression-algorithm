@@ -1,2 +1,2 @@
 # Linear_Regression-algorithm
-LR from scratch
+LR from scratch with python
